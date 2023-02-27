@@ -9,3 +9,5 @@ services:
       MYSQL_DATABASE: bank
       MYSQL_USER: murat
       MYSQL_PASSWORD: Bfp711g+
+    ports:
+      - "3306:3306"

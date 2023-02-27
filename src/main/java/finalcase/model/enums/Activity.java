@@ -1,2 +1,6 @@
-package finalcase.model.enums;public enum Activity {
+package finalcase.model.enums;
+
+public enum Activity {
+    INCREASE,
+    DECREASE
 }

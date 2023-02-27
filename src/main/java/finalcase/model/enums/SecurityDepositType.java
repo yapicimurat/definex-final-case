@@ -1,6 +1,6 @@
 package finalcase.model.enums;
 
-public enum SecurityDeposit {
+public enum SecurityDepositType {
     HOUSE,
     CAR,
     LAND

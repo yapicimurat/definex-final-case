@@ -1,2 +1,4 @@
-package finalcase.api.request.application;public class ApplicationPutRequest {
+package finalcase.api.request.application;
+
+public class ApplicationPutRequest {
 }

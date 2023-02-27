@@ -1,4 +1,4 @@
 package finalcase.api.request.securitydeposit;
 
-public class SecurityPutRequest {
+public class SecurityDepositPutRequest {
 }

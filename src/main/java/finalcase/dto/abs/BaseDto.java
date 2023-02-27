@@ -1,4 +1,4 @@
-package finalcase.dto;
+package finalcase.dto.abs;
 
 import lombok.Data;
 

@@ -1,2 +1,7 @@
-package finalcase.service;public interface SMSService {
+package finalcase.service;
+
+public interface InformationMessageService {
+
+    void sendSMSToCustomer(String customerPhone, String content);
+
 }

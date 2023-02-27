@@ -1,4 +1,6 @@
 package finalcase.model.enums;
 
-public class Role {
+public enum EmployeeRole {
+    ADMIN,
+    PERSONEL
 }

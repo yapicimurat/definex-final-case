@@ -1,2 +1,7 @@
-package finalcase.exception;public class UserNotFoundException {
+package finalcase.exception;
+
+public class UserNotFoundException extends RuntimeException{
+    public UserNotFoundException(String message) {
+        super(message);
+    }
 }

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: Bfp711g+
+      MYSQL_DATABASE: bank
+      MYSQL_USER: murat
+      MYSQL_PASSWORD: Bfp711g+
